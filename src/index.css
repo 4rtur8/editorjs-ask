@@ -1,0 +1,40 @@
+.input-ask {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #e4e4e4;
+  border-radius: 3px;
+  outline: none;
+  font-size: 14px;
+}
+.ask div {
+  margin: 15px 0;
+}
+.ask p {
+  display: inline-block;
+  margin-left: 20px;
+}
+.ask div div {
+  display: inline-block;
+}
+.select-ask {
+  width: 200px;
+  padding: 10px;
+  border: 1px solid #e4e4e4;
+  background-color: white;
+  border-radius: 3px;
+  outline: none;
+  font-size: 14px;
+}
+.checkbox-ask {
+  width: 50px;
+  padding: 10px;
+  border: 1px solid #e4e4e4;
+  background-color: white;
+  border-radius: 3px;
+  outline: none;
+  font-size: 14px;
+}
+.result-ask {
+  margin-top: 30px;
+  text-align: center;
+}
